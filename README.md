@@ -1,5 +1,3 @@
-printf
-0x11. C - First Project Collaboration
 OVERVIEW
 printf project is an ALX Collaboration project. The task is to reproduce a program that operates in like manner as the printf function in the standard C stdio.h library.
 
@@ -90,4 +88,4 @@ R : prints the rot13'ed string
 15. *
 All the above options work well together.
 Authors
-Silas Omubo Wariboko - waribokosilas@gmail.com
+Wariboko silas waribokosilas@gmail.com
